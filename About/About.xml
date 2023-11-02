@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vanilla Factions Expanded - Ancients Українською</name>
+  <author>oleksandr</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>oleksandr.VanillaFactionsExpandedAncientsUA</packageId>
+  <description></description>
+  <loadAfter>
+    <li>VanillaExpanded.VFEA</li>
+  </loadAfter>
+</ModMetaData>	

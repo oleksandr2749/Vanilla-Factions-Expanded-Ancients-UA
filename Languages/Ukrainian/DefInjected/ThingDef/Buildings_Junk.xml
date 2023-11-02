@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AncientMonitorBank.label>стародавня моніторингова панель</VFEA_AncientMonitorBank.label>
+  <VFEA_AncientMonitorBank.description>A small set of old computer screens.</VFEA_AncientMonitorBank.description>
+
+  <VFEA_AncientBrokenDefensiveTurret.label>стародавня зламана захисна турель</VFEA_AncientBrokenDefensiveTurret.label>
+  <VFEA_AncientBrokenDefensiveTurret.description>A destroyed defensive turret top.</VFEA_AncientBrokenDefensiveTurret.description>
+
+  <VFEA_AncientBustedTurretPlatform.label>стародавня пошкоджена платформа турелі</VFEA_AncientBustedTurretPlatform.label>
+  <VFEA_AncientBustedTurretPlatform.description>A destroyed platform for a turret.</VFEA_AncientBustedTurretPlatform.description>
+
+  <VFEA_AncientFuelTank.label>стара паливна цистерна</VFEA_AncientFuelTank.label>
+  <VFEA_AncientFuelTank.description>A large fuel tank that can be deconstructed for fuel.</VFEA_AncientFuelTank.description>
+
+  <VFEA_AncientInputTerminal.label>старовинний термінал</VFEA_AncientInputTerminal.label>
+  <VFEA_AncientInputTerminal.description>A station with buttons and levers.</VFEA_AncientInputTerminal.description>
+
+  <VFEA_AncientTransmitter.label>старий радіочастотний передавач</VFEA_AncientTransmitter.label>
+  <VFEA_AncientTransmitter.description>A transmitter used to send signals over long range.</VFEA_AncientTransmitter.description>
+
+  <VFEA_AncientMachinery.label>старовинний механічний блок</VFEA_AncientMachinery.label>
+  <VFEA_AncientMachinery.description>A set of old machine blocks. Their purpose, if they ever had any, has long been forgotten.</VFEA_AncientMachinery.description>
+
+  <VFEA_AncientWaterFilter.label>старовинний водяний фільтр</VFEA_AncientWaterFilter.label>
+  <VFEA_AncientWaterFilter.description>A large water filtration system.</VFEA_AncientWaterFilter.description>
+
+  <VFEA_AncientComputerDesk.label>старовинний комп'ютерний стіл</VFEA_AncientComputerDesk.label>
+  <VFEA_AncientComputerDesk.description>An old, no longer operational computer desk.</VFEA_AncientComputerDesk.description>
+
+  <VFEA_AncientShuttle.label>старовинний шатл</VFEA_AncientShuttle.label>
+  <VFEA_AncientShuttle.description>An ancient, no longer operational shuttle that can be disassembled for scrap.</VFEA_AncientShuttle.description>
+
+</LanguageData>

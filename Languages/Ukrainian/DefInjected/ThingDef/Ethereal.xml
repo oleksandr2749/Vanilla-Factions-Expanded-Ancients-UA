@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_LightningSpot.label>lightning spot</VFEA_LightningSpot.label>
+  <VFEA_LaserEyeBeamDraw.label>laser beam</VFEA_LaserEyeBeamDraw.label>
+  <VFEA_ElectricBlast.label>electricity blase</VFEA_ElectricBlast.label>
+  <VFEA_SuperJumpingPawn.label>flying</VFEA_SuperJumpingPawn.label>
+
+
+</LanguageData>

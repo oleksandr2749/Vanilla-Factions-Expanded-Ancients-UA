@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AcidBreath.label>кислотний плювок</VFEA_AcidBreath.label>
+  <VFEA_AcidBreath.deathMessage>{0} {0_gender ? був повністю розчинений: була повністю розчинена}.</VFEA_AcidBreath.deathMessage>
+
+</LanguageData>

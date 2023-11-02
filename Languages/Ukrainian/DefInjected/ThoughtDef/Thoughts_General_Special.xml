@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_OutsideHomeArea.stages.0.label>за межами дому</VFEA_OutsideHomeArea.stages.0.label>
+  <VFEA_OutsideHomeArea.stages.0.description>Я за межами своєї домашньої території. Скрізь вороги, я хочу повернутися назад.</VFEA_OutsideHomeArea.stages.0.description>
+
+  <VFEA_EmpathyCast.stages.0.label>емпатія</VFEA_EmpathyCast.stages.0.label>
+  <VFEA_EmpathyCast.stages.0.description>Я почуваюся добре, незважаючи на всі негаразди.</VFEA_EmpathyCast.stages.0.description>
+
+
+</LanguageData>

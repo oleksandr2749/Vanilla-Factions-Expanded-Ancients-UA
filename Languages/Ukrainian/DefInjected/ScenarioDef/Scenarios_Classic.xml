@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RE_NewVault.label>Sealed Vault</RE_NewVault.label>
+  <RE_NewVault.description>With each passing day you stare at your fellow companions hibernating in cryptosleep sarcophagi. One day, when your life is nearing its end, you will wake your successor, and his watch will begin. Every day for the last hundreds of years your outpost was awaiting orders from High Command which may no longer exist. Will today be the day you not only wake up, but also open your eyes?
+	
+Note: Since you start alone with random superpowers and weaknesses, this is a difficult scenario.</RE_NewVault.description>
+  <RE_NewVault.scenario.name>Sealed Vault</RE_NewVault.scenario.name>
+  <RE_NewVault.scenario.summary>A lone super-soldier guarding his post. A classic VFE - Ancients experience.</RE_NewVault.scenario.summary>
+  <RE_NewVault.scenario.description>With each passing day you stare at your fellow companions hibernating in cryptosleep sarcophagi. One day, when your life is nearing its end, you will wake your successor, and his watch will begin. Every day for the last hundreds of years your outpost was awaiting orders from High Command which may no longer exist. Will today be the day you not only wake up, but also open your eyes?
+	
+Note: Since you start alone with random superpowers and weaknesses, this is a difficult scenario.</RE_NewVault.scenario.description>
+  <RE_NewVault.scenario.parts.0.text>With each passing day you stare at your fellow companions hibernating in cryptosleep sarcophagi. One day, when your life is nearing its end, you will wake your successor, and his watch will begin. Every day for the last hundreds of years your outpost was awaiting orders from High Command which may no longer exist. Will today be the day you not only wake up, but also open your eyes?</RE_NewVault.scenario.parts.0.text>
+
+  <VFEA_CargoCult.label>Cargo Cult</VFEA_CargoCult.label>
+  <VFEA_CargoCult.description>It was a fortuitous find: The tribe's foragers were looking for some berries, and stumbled upon the mysterious hole in the ground. Was it man-made, or built by the gods themselves? We soon discovered that it was obviously the latter, as offerings made to the wondrous structure were magically catapulted to the heavens, and returned as something else entirely as a reward for our devotion.\n\nNote: You'll start poor and lack technology, but having the supply slingshot means it will be easier than a standard tribal start.</VFEA_CargoCult.description>
+  <VFEA_CargoCult.scenario.name>Cargo Cult</VFEA_CargoCult.scenario.name>
+  <VFEA_CargoCult.scenario.summary>Five lost tribespeople stumble upon a supply slingshot and start revering it. Moderate-High difficulty.</VFEA_CargoCult.scenario.summary>
+  <VFEA_CargoCult.scenario.description>It was a fortuitous find: The tribe's foragers were looking for some berries, and stumbled upon the mysterious hole in the ground. Was it man-made, or built by the gods themselves? We soon discovered that it was obviously the latter, as offerings made to the wondrous structure were magically catapulted to the heavens, and returned as something else entirely as a reward for our devotion.\n\nNote: You'll start poor and lack technology, but having the supply slingshot means it will be easier than a standard tribal start.</VFEA_CargoCult.scenario.description>
+  <VFEA_CargoCult.scenario.parts.15.text>It was a fortuitous find: The tribe's foragers were looking for some berries, and stumbled upon the mysterious hole in the ground. Was it man-made, or built by the gods themselves? We soon discovered that it was obviously the latter, as offerings made to the wondrous structure were magically catapulted to the heavens, and returned as something else entirely as a reward for our devotion.</VFEA_CargoCult.scenario.parts.15.text>
+
+
+</LanguageData>

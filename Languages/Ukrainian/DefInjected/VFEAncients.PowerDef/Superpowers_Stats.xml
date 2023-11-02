@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SuperLearning.label>супер навчання</SuperLearning.label>
+  <SuperLearning.description>Мозок персонажа працює настільки швидко, що дає змогу засвоювати нові навички майже без зусиль.</SuperLearning.description>
+
+  <ToxicResistance.label>токсична стійкість</ToxicResistance.label>
+  <ToxicResistance.description>Печінка персонаж здатна знешкодити будь-які токсини, даючи повний імунітет до них.</ToxicResistance.description>
+
+  <PsychicResistance.label>психічна витривалість</PsychicResistance.label>
+  <PsychicResistance.description>Мозок персонажа має надзвичайно міцні нейронні зв'язки. Що дає повну стійкість, до будь яких ворожих пси-здібностей.</PsychicResistance.description>
+
+  <Regeneration.label>суперзагоєння</Regeneration.label>
+  <Regeneration.description>Клітин персонажа досягли значного прискорення множення, що дає змогу їм зцілювати більшість дрібних травм.</Regeneration.description>
+
+  <SuperSpeed.label>надшвидкість</SuperSpeed.label>
+  <SuperSpeed.description>Ноги персонажа мають нові групи мя'з, що в половину пришвидшує рух.</SuperSpeed.description>
+
+  <GeniusIntellect.label>геніальність</GeniusIntellect.label>
+  <GeniusIntellect.description>Мозок персонажа має щільніщі нейронні зв'язки, що дає змогу виконувати складні розумові дії, як-от наукові дослідження, втричі швидше.</GeniusIntellect.description>
+
+  <WeaponExpert.label>експерт зі зброї</WeaponExpert.label>
+  <WeaponExpert.description>Рухи персонажа настільки скоординовані зі зброєю, що його мозок сприймає її ніби продовженням рук. Це дає змогу набагато краще працювати зі зброєю.</WeaponExpert.description>
+
+
+</LanguageData>

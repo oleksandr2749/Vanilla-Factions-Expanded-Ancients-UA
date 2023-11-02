@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AncientVitalsMonitor.label>старовинний фізіологічний монітор</VFEA_AncientVitalsMonitor.label>
+  <VFEA_AncientVitalsMonitor.description>An old set of monitors to check up on the healing progress of wounded soldiers.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientVitalsMonitor.description>
+  <VFEA_AncientVitalsMonitor_Blueprint_Install.label>ancient vitals monitor (blueprint)</VFEA_AncientVitalsMonitor_Blueprint_Install.label>
+
+  <VFEA_AncientCryptosleepSarcophagus.label>стародавня капсула криптосну</VFEA_AncientCryptosleepSarcophagus.label>
+  <VFEA_AncientCryptosleepSarcophagus.description>Ancient super-soldiers sleep in the ancient cryptosleep sarcophagi until they are awakened when their watch begins. These devices are a different variant to normal cryptosleep caskets - the process of hibernating is instant, but waking up from the sleep takes a long time. Cannot be re-used once opened.</VFEA_AncientCryptosleepSarcophagus.description>
+
+  <VFEA_AncientSupplySlingshot.label>стародавня поштова катапульта</VFEA_AncientSupplySlingshot.label>
+  <VFEA_AncientSupplySlingshot.description>Often found in ancient vaults, supply slingshot is a complex mechanism that catapults a supply crate across huge distances. It's programmed to send the crates to the nearby occupied vaults. These slingshots are often used by ancient soldiers to share resources they don't need with other complexes.</VFEA_AncientSupplySlingshot.description>
+
+  <VFEA_SlingshotDropOffSpot.label>місце приземлення припасів</VFEA_SlingshotDropOffSpot.label>
+  <VFEA_SlingshotDropOffSpot.description>Designates a spot for items from vault to be delivered to.</VFEA_SlingshotDropOffSpot.description>
+
+
+</LanguageData>

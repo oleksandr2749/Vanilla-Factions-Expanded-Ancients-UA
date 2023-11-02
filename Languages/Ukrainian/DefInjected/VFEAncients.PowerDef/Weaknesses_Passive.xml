@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Prideful.label>гордовитість</Prideful.label>
+  <Prideful.description>Персонаж має недоречне почуття гордості, через що, він погано, іноді жорстоко, сприймає будь-яку відмову.</Prideful.description>
+
+  <Bloodlust.label>жага крові</Bloodlust.label>
+  <Bloodlust.description>Гормональні залози суб'єкта стали надчутливими, і вбивство когось викликає потужний сплеск дофаміну і неймовірне задоволення, фактично перетворюючись на залежність від убивства.Це, в свою чергу, може призвести до того, що одне вбивство перетвориться на довгий ланцюг, спричинений несамовитою люттю.</Bloodlust.description>
+
+  <Paranoid.label>параноїдальність</Paranoid.label>
+  <Paranoid.description>Персонаж має розвинуту параною, від чого він відчуває себе в безпеці лише тоді, коли перебуває вдома.</Paranoid.description>
+
+  <Audacious.label>зухвалість</Audacious.label>
+  <Audacious.description>Персонаж відчуває повну зневагу до будь-якої влади, окрім власної, і буде робити тільки те, що йому хочеться.</Audacious.description>
+
+  <Callous.label>безсердечність</Callous.label>
+  <Callous.description>The subject has become callous and disregards the sanctity of life, butchering former colleagues or even friendly banter. As long as they have somewhere to sit, they don’t care.</Callous.description>
+
+  <Immature.label>істерик</Immature.label>
+  <Immature.description>The subject has lost several methods of expressing their emotions, only able to get their point across by throwing tantrums.</Immature.description>
+
+  <EasilyBored.label>набридаючий</EasilyBored.label>
+  <EasilyBored.description>The subject’s cognitive functions have become over developed and require twice the rate of recreational stimulation to delay mind-numbing boredom.</EasilyBored.description>
+
+  <EasilyEnraged.label>дратівливість</EasilyEnraged.label>
+  <EasilyEnraged.description>The subject has developed a possibly misplaced sense of pride due to their gene therapy and doesn't take criticism well, causing them to fall into a psychotic rage every time they are slighted.</EasilyEnraged.description>
+
+  <Sickly.label>нудота</Sickly.label>
+  <Sickly.description>The subject’s immune response has been ruined, requiring frequent trips to the doctor as they constantly gain new illnesses just as they’ve recovered from the previous one.</Sickly.description>
+
+  <Zealot.label>фанатизм</Zealot.label>
+  <Zealot.description>The subject has developed an intense state of zealotry, that all who are against the will of the colony do not deserve to live.</Zealot.description>
+
+  <Lustful.label>хтивість</Lustful.label>
+  <Lustful.description>The subject’s hormone production has gone into overdrive, causing them to constantly make revolting remarks or gestures and generating bad blood between them and their colleagues.</Lustful.description>
+
+  <Hallucinations.label>галюцинації</Hallucinations.label>
+  <Hallucinations.description>The subject regularly suffers from auditory and optical hallucinations, completely convinced they are seeing something that isn’t there. Sometimes they try to make them go away by firing their weapons at them.</Hallucinations.description>
+
+
+</LanguageData>

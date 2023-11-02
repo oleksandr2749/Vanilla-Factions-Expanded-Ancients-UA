@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_GeneTailoringPod.label>капсула вживлення генів</VFEA_GeneTailoringPod.label>
+  <VFEA_GeneTailoringPod.description>The primary element in the Ancients’ project of developing super soldiers, the Gene-tailoring Pod is the result of many dubious experiments in order to take on the Mechanoids. Soldiers are expected to lie in the pod and are then injected with single-use nanomachines designed to augment their physiology.\n\nThis is the main module responsible for creating super soldiers, but to improve the quality, efficiency and safety of the project, other equipment needs to be placed in the vicinity of the gene-tailoring pod.</VFEA_GeneTailoringPod.description>
+  <VFEA_GeneTailoringPod_Blueprint_Install.label>gene-tailoring pod (blueprint)</VFEA_GeneTailoringPod_Blueprint_Install.label>
+
+  <VFEA_SuperNaniteInjectorPump.label>насос для введення супер-наномашин</VFEA_SuperNaniteInjectorPump.label>
+  <VFEA_SuperNaniteInjectorPump.description>A small element that links to the Gene-tailoring Pod that allows it to store and extract a dose of super-nanites, effectively shaving a day off of the process. No more than 10 can be linked as at least 5 days are needed for the patient to process and accept the transition.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will cut one day from the injection time.</VFEA_SuperNaniteInjectorPump.description>
+  <VFEA_SuperNaniteInjectorPump_Blueprint_Install.label>super-nanite injector pump (blueprint)</VFEA_SuperNaniteInjectorPump_Blueprint_Install.label>
+
+  <VFEA_SuperNaniteDialyzer.label>фільтратор супер-наномашин</VFEA_SuperNaniteDialyzer.label>
+  <VFEA_SuperNaniteDialyzer.description>An element designed to compare super-nanites to each other and remove weaker, competing strains from compromising the transition process. Ideally operating in pairs, each comparing two strains against each other and lowering the chances of side effects by 10% in total.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will cut reduce the chances of experiment failure by 5%.</VFEA_SuperNaniteDialyzer.description>
+  <VFEA_SuperNaniteDialyzer_Blueprint_Install.label>super-nanite dialyzer (blueprint)</VFEA_SuperNaniteDialyzer_Blueprint_Install.label>
+
+  <VFEA_SuperNaniteCentrifuge.label>центрифуга супер-наномашин</VFEA_SuperNaniteCentrifuge.label>
+  <VFEA_SuperNaniteCentrifuge.description>A structure designed to remove compromised or redundant super-nanites. Ideally operating in pairs, allowing them to double check viability and lowering the chances of side effects by 10% in total.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will cut reduce the chances of experiment failure by 5%.</VFEA_SuperNaniteCentrifuge.description>
+  <VFEA_SuperNaniteCentrifuge_Blueprint_Install.label>super-nanite centrifuge (blueprint)</VFEA_SuperNaniteCentrifuge_Blueprint_Install.label>
+
+  <VFEA_SimulationDrive.label>реакційний симулятор</VFEA_SimulationDrive.label>
+  <VFEA_SimulationDrive.description>A compact supercomputer that runs simulations of the host DNA reacting to the super-nanites, reprogramming them as more optimal transition processes are calculated, reducing complications by roughly 1%. Any more than 10 computers will result in unnecessary duplications.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will cut reduce the chances of experiment failure by 1%.</VFEA_SimulationDrive.description>
+  <VFEA_SimulationDrive_Blueprint_Install.label>simulation drive (blueprint)</VFEA_SimulationDrive_Blueprint_Install.label>
+
+  <VFEA_GenomeStabilizer.label>генетичний стабілізатор</VFEA_GenomeStabilizer.label>
+  <VFEA_GenomeStabilizer.description>A large element that performs reactionary measures to adverse effects during transition, attempting to stabilise the genome and reduce negative effects. Ideally operating in pairs, each one double checking the other to ensure success and lowering the chances of side effects by 20% in total.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will cut reduce the chances of experiment failure by 10%.</VFEA_GenomeStabilizer.description>
+  <VFEA_GenomeStabilizer_Blueprint_Install.label>genome stabilizer (blueprint)</VFEA_GenomeStabilizer_Blueprint_Install.label>
+
+  <VFEA_SuperNaniteContainment.label>сховище супер-наномашин</VFEA_SuperNaniteContainment.label>
+  <VFEA_SuperNaniteContainment.description>A shelf that is capable of stabilizing doses of super-nanites for future use, as otherwise they are incredibly energetic and volatile. Prevents deterioration of Super-nanites.</VFEA_SuperNaniteContainment.description>
+  <VFEA_SuperNaniteContainment_Blueprint_Install.label>super-nanite containment (blueprint)</VFEA_SuperNaniteContainment_Blueprint_Install.label>
+
+  <VFEA_GenomeMacrothermometer.label>генетичний розвантажувач</VFEA_GenomeMacrothermometer.label>
+  <VFEA_GenomeMacrothermometer.description>An extension that was developed after several successful cases with the Gene-tailoring Pod, the Genome Macrothermometer was designed to further enhance successful super-soldiers. The primary function is for it to help prevent a thermal runaway, or fiery meat explosion, from occuring by having the super-nanites only interact with parts of the genomes that weren’t altered on the first Transition Phases.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will allow unlocking an additional ability over the limit of 3.</VFEA_GenomeMacrothermometer.description>
+  <VFEA_GenomeMacrothermometer_Blueprint_Install.label>genome macrothermometer (blueprint)</VFEA_GenomeMacrothermometer_Blueprint_Install.label>
+
+  <VFEA_StabilisedMucusInducer.label>стабілізатор індукторів</VFEA_StabilisedMucusInducer.label>
+  <VFEA_StabilisedMucusInducer.description>Whilst regular Gene Tailoring works by altering the genes as a whole, some scientists managed to create a work-around by instead creating small, isolated environments within which the alterations can occur independently. Thus, this machine is designed to insert partitions in the form of stabilised mucus that is completely non-reactive and doesn’t cause rejection in the patient’s body, becoming a permanent part of their genomes.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will allow unlocking an additional ability over the limit of 3.</VFEA_StabilisedMucusInducer.description>
+  <VFEA_StabilisedMucusInducer_Blueprint_Install.label>stabilised mucus inducer (blueprint)</VFEA_StabilisedMucusInducer_Blueprint_Install.label>
+
+  <VFEA_NanotechRetractor.label>точковий коректор</VFEA_NanotechRetractor.label>
+  <VFEA_NanotechRetractor.description>A specialized device that allows genetic remodelling in a patient to try and remove a negative effect generated by the gene therapy. The process is similar and requires another dose of super-nanites, however in this case they are used in an attempt to undo very specific effects whilst leaving the benefits untouched. In the case of multiple downsides, the results of the transition process is purely up to chance.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will allow to perform a new 'Remove Weakness' operation.</VFEA_NanotechRetractor.description>
+  <VFEA_NanotechRetractor_Blueprint_Install.label>nanotech retractor (blueprint)</VFEA_NanotechRetractor_Blueprint_Install.label>
+
+  <VFEA_NaniteSampler.label>геновий варіатор</VFEA_NaniteSampler.label>
+  <VFEA_NaniteSampler.description>A curious machine that neither harms nor aids the transformation process. Instead it runs sample simulations alongside the operation, using real-time data to provide actual data. When the conversion process is nearing success, it creates a binary choice for the user to select. Once selected, the machine then performs some minor alterations and creates a dominant and recessive gene. In layman’s terms, this allows a successful operation to decide on one of two sets of abilities.\n\nAn add-on to gene-tailoring pod, this device needs to be placed in close proximity to it and will allow to select between two sets of abilities upon succesfull operation.</VFEA_NaniteSampler.description>
+  <VFEA_NaniteSampler_Blueprint_Install.label>nanite sampler (blueprint)</VFEA_NaniteSampler_Blueprint_Install.label>
+
+</LanguageData>

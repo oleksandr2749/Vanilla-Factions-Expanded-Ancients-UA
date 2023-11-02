@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Unstable.label>психочутливість</Unstable.label>
+  <Unstable.description>The subject’s brain has become highly tuned to psychic wavelengths, making them vulnerable to Mechanoid psychic attacks but also a far more capable psycaster.</Unstable.description>
+
+  <ExtremelyFlammable.label>горючість</ExtremelyFlammable.label>
+  <ExtremelyFlammable.description>The subject’s entire body has become highly flammable, with the slightest spark being able to send them bursting into flames.</ExtremelyFlammable.description>
+
+  <ToxinIntolerance.label>непереносимість токсинів</ToxinIntolerance.label>
+  <ToxinIntolerance.description>The subject’s organs are constantly lacking certain minerals (e.g. Iodine) and freely absorb them from the air, even if they're irradiated or bound to toxic chemicals.</ToxinIntolerance.description>
+
+  <HeatIntolerance.label>непереносимість спеки</HeatIntolerance.label>
+  <HeatIntolerance.description>The subject can no longer sweat properly, meaning they overheat very easily as their body can no longer cool itself. This lowers their maximum comfortable temperature by 10 degrees.</HeatIntolerance.description>
+
+  <ColdIntolerance.label>непереносимість холоду</ColdIntolerance.label>
+  <ColdIntolerance.description>The subject’s muscles no longer shiver involuntarily, meaning they can no longer warm themselves when exposed to cold temperatures. This raises their minimum comfortable temperature by 10 degrees.</ColdIntolerance.description>
+
+  <ImmunologicalDisorder.label>слабкий імунітет</ImmunologicalDisorder.label>
+  <ImmunologicalDisorder.description>The subject’s immune system has been ruined, requiring them to take frequent medicine and receive constant medical care, as even the sniffles could kill them.</ImmunologicalDisorder.description>
+
+  <Finicky.label>вибагливість</Finicky.label>
+  <Finicky.description>The subject has become incredibly fussy, demanding they pay extraneous attention to the most inconsequential of tasks and taking three times longer than usual.</Finicky.description>
+
+  <Unsure.label>невпевненість</Unsure.label>
+  <Unsure.description>The subject has become incredibly doubtful and suffers frequent dizzy spells, taking twice as long to acquire targets with their weapons as they re-check that they’re ready to fire.</Unsure.description>
+
+  <AlwaysKnowsBetter.label>завжди знає краще</AlwaysKnowsBetter.label>
+  <AlwaysKnowsBetter.description>The subject has developed a somewhat misplaced sense of pride due to their gene therapy and refuses to learn anything new, stating that they know better than everyone and no one can improve perfection.</AlwaysKnowsBetter.description>
+
+
+</LanguageData>

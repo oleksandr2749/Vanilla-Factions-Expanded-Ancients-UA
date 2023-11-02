@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ancient security turret -->
+
+  <VFEA_Turret_AncientSecurityTurret.label>старовинна захисна турель</VFEA_Turret_AncientSecurityTurret.label>
+  <VFEA_Turret_AncientSecurityTurret.description>A portable automatic turret. Basic in shape and form, but incredibly reliable.</VFEA_Turret_AncientSecurityTurret.description>
+  <VFEA_Turret_AncientSecurityTurret_Blueprint_Install.label>ancient security turret (blueprint)</VFEA_Turret_AncientSecurityTurret_Blueprint_Install.label>
+
+  <VFEA_Bullet_AncientSecurityTurret.label>ancient security turret bullet</VFEA_Bullet_AncientSecurityTurret.label>
+
+  <VFEA_Gun_AncientSecurityTurret.label>ancient security turret gun</VFEA_Gun_AncientSecurityTurret.label>
+  <VFEA_Gun_AncientSecurityTurret.description>A very reliable automatic gun made to be mounted on a turret.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_Gun_AncientSecurityTurret.description>
+
+
+  <!-- Ancient Point Defense Turret -->
+
+  <VFEA_Turret_AncientPointDefense.label>ancient point defense turret</VFEA_Turret_AncientPointDefense.label>
+  <VFEA_Turret_AncientPointDefense.description>A large turret often used to defend ancient complexes. Uses two miniguns to quickly dispose of enemies and explosive projectiles.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_Turret_AncientPointDefense.description>
+  <VFEA_Turret_AncientPointDefense_Blueprint_Install.label>ancient point defense turret (blueprint)</VFEA_Turret_AncientPointDefense_Blueprint_Install.label>
+
+  <VFEA_Bullet_AncientPointDefenseTurret.label>ancient point defense turret bullet</VFEA_Bullet_AncientPointDefenseTurret.label>
+
+  <VFEA_Gun_AncientPointDefenseTurret.label>ancient point defense turret</VFEA_Gun_AncientPointDefenseTurret.label>
+  <VFEA_Gun_AncientPointDefenseTurret.description>An array of miniguns that can be attached to a turret.</VFEA_Gun_AncientPointDefenseTurret.description>
+  <VFEA_Gun_AncientPointDefenseTurret.verbs.1.label>point-defense</VFEA_Gun_AncientPointDefenseTurret.verbs.1.label>
+
+
+</LanguageData>

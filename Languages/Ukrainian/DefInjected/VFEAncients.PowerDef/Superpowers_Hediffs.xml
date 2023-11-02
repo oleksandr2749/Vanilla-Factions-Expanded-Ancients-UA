@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlasteelClaws.label>пласталеві кігті</PlasteelClaws.label>
+  <PlasteelClaws.description>В кистях персонажа, знаходяться кігті вкриті пласталю, що можна висунути з-поміж пальців. Це швидка та сильна зброя  ближнього бою.</PlasteelClaws.description>
+
+  <Unstoppable.label>нестримний</Unstoppable.label>
+  <Unstoppable.description>Мозок персонажа більше не здатен сприймати сигнали нервової системи. Це дозволяє не відчувати біль, але й позбуває свідомість можливості відключитися від надмірних ушкоджень тіла, доки життєво важливі органи не будуть знищенні.</Unstoppable.description>
+
+
+</LanguageData>

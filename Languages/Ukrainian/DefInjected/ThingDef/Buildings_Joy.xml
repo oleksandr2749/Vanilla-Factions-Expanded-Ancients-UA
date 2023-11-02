@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AncientEducator.label>старовинний учбовий тренер</VFEA_AncientEducator.label>
+  <VFEA_AncientEducator.description>Дуже старий інтерактивний прилад. Ймовірно, розроблений для навчання за будь-яких умов.
+Проста конструкція забезпечує надійну, автономну та довговічну роботу приладу. З невідомих причин, сонячні спалахи впливають на його роботу, від  чого прилад працює швидше.</VFEA_AncientEducator.description>
+  <VFEA_AncientEducator_Blueprint_Install.label>ancient educator (blueprint)</VFEA_AncientEducator_Blueprint_Install.label>
+
+  <VFEA_AncientFoosballTable.label>старий настільний футбол</VFEA_AncientFoosballTable.label>
+  <VFEA_AncientFoosballTable.description>An old relic of the times, foosball table allows players to engage in the long forgotten game of football without leaving the safety of the vault.</VFEA_AncientFoosballTable.description>
+  <VFEA_AncientFoosballTable_Blueprint_Install.label>ancient foosball table (blueprint)</VFEA_AncientFoosballTable_Blueprint_Install.label>
+
+
+</LanguageData>

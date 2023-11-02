@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_LargeSupplyCrate.label>великий герметичний ящик</VFEA_LargeSupplyCrate.label>
+  <VFEA_LargeSupplyCrate.description>A large crate with some building resources and components. Hacking it takes a short time and there is no risk of danger.</VFEA_LargeSupplyCrate.description>
+
+  <VFEA_AncientBroadcastStation.label>старовинна радіостанція</VFEA_AncientBroadcastStation.label>
+  <VFEA_AncientBroadcastStation.description>An old long range communication station often found within the ancient vaults. It can be hacked in order to find a location of the next vault.</VFEA_AncientBroadcastStation.description>
+
+  <VFEA_PipelineJunction.label>розвилка трубопроводу</VFEA_PipelineJunction.label>
+  <VFEA_PipelineJunction.description>A large underground chemfuel pipeline connects to an exterior port in this place. When hacked, it yields large quantities of chemfuel, but hacking itself can take a while and even summon infestations.</VFEA_PipelineJunction.description>
+
+  <VFEA_LargeLockedDoor.label>зачинені великі двері сховища</VFEA_LargeLockedDoor.label>
+  <VFEA_LargeLockedDoor.description>Двері зачинені і  для відкриття вимагають певного рівня навичок хакерства.</VFEA_LargeLockedDoor.description>
+
+  <VFEA_AncientSupplyCrate.label>старовинний ящик з припасами</VFEA_AncientSupplyCrate.label>
+  <VFEA_AncientSupplyCrate.description>Ящик з ресурсами, компонентами та стародавніми технологіями. Він зачинений кодовим замком, що можна зломати за невеликий час.</VFEA_AncientSupplyCrate.description>
+
+</LanguageData>

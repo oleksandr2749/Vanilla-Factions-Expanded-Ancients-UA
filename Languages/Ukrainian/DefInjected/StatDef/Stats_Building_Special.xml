@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_FailChance.label>fail chance</VFEA_FailChance.label>
+  <VFEA_FailChance.description>The chance that a nanite injecting operation will fail.</VFEA_FailChance.description>
+
+  <VFEA_InjectingTimeFactor.label>injecting time factor</VFEA_InjectingTimeFactor.label>
+  <VFEA_InjectingTimeFactor.description>A multiplier on the speed of a gene-tailoring pod. It can be lowered by finding and installing super-nanite injector pumps.</VFEA_InjectingTimeFactor.description>
+
+
+</LanguageData>

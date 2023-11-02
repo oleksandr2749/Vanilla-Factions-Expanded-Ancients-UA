@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bigot.label>суперфанатизм</Bigot.label>
+  <Bigot.description>The subject has become bigotted, believing the rule of their community is absolute and refuses to deal with prisoners unless they’re at the end of a knife or gun.</Bigot.description>
+
+  <ConscientiousObjector.label>відмовник за ідейними міркуваннями</ConscientiousObjector.label>
+  <ConscientiousObjector.description>The subject has become incredibly conscientious and refuses to use weapons or even defend themselves in the face of violence.</ConscientiousObjector.description>
+
+  <Egotistical.label>егоїзм</Egotistical.label>
+  <Egotistical.description>The subject has developed a massive ego and refuses to do any and all work, viewing it as beneath them.</Egotistical.description>
+
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AncientSolarGenerator.label>старовинна сонячна панель</VFEA_AncientSolarGenerator.label>
+  <VFEA_AncientSolarGenerator.description>This generator gathers power from solar flares. They are often used in the vaults to support the internal generators in the rare occurrences of solar storms.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientSolarGenerator.description>
+  <VFEA_AncientSolarGenerator_Blueprint_Install.label>ancient solar generator (blueprint)</VFEA_AncientSolarGenerator_Blueprint_Install.label>
+
+  <VFEA_AncientChemfuelPoweredGenerator.label>старовинний генератор на хімічному паливі</VFEA_AncientChemfuelPoweredGenerator.label>
+  <VFEA_AncientChemfuelPoweredGenerator.description>Produces a reliable stream of power by consuming chemfuel. Must be periodically refueled by hand.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientChemfuelPoweredGenerator.description>
+  <VFEA_AncientChemfuelPoweredGenerator_Blueprint_Install.label>ancient chemfuel powered generator (blueprint)</VFEA_AncientChemfuelPoweredGenerator_Blueprint_Install.label>
+
+  <VFEA_AncientGeothermalPlant.label>старовинний геотермальний генератор</VFEA_AncientGeothermalPlant.label>
+  <VFEA_AncientGeothermalPlant.description>Produces electricity from geothermal steam geysers. Often used in deep mountain vaults to provide the whole structure with power. It’s also capable of regulating the temperature inside the room, and can act as a heater or a freezer. Must be placed on a steam geyser.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientGeothermalPlant.description>
+  <VFEA_AncientGeothermalPlant_Blueprint_Install.label>ancient geothermal plant (blueprint)</VFEA_AncientGeothermalPlant_Blueprint_Install.label>
+
+  <VFEA_AncientBattery.label>старовинний акумулятор</VFEA_AncientBattery.label>
+  <VFEA_AncientBattery.description>An old, large battery commonly found in vaults, capable of sustaining the entire compound for a nearly infinite amount of time.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientBattery.description>
+  <VFEA_AncientBattery_Blueprint_Install.label>ancient battery (blueprint)</VFEA_AncientBattery_Blueprint_Install.label>
+
+  <VFEA_AncientBioBatteryTank.label>старовинний генератор на біоматеріалі</VFEA_AncientBioBatteryTank.label>
+  <VFEA_AncientBioBatteryTank.description>Produces a reliable stream of power by consuming biological material such as humans or animals. Must be periodically refueled with downed creatures.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientBioBatteryTank.description>
+  <VFEA_AncientBioBatteryTank_Blueprint_Install.label>ancient bio-battery tank (blueprint)</VFEA_AncientBioBatteryTank_Blueprint_Install.label>
+
+</LanguageData>

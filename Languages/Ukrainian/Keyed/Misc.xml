@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VFEAncients.SolarPowerUp>Збільшення ефективності під час сонячного спалаху</VFEAncients.SolarPowerUp>
+  <VFEAncients.TabPowers>Сили</VFEAncients.TabPowers>
+  <VFEAncients.Superpowers>Суперсили</VFEAncients.Superpowers>
+  <VFEAncients.Weaknesses>Вади</VFEAncients.Weaknesses>
+  <VFEAncients.Effects>Ефекти:</VFEAncients.Effects>
+  <VFEAncients.Effect.AddAbility>Додає здібність: {0}</VFEAncients.Effect.AddAbility>
+  <VFEAncients.Effect.AddHediff>Додає ваду: {0}</VFEAncients.Effect.AddHediff>
+  <VFEAncients.Effect.NullThought>Nullify thought: {0}</VFEAncients.Effect.NullThought>
+  <VFEAncients.MarksmanshipTooltip>100% (Влучність)</VFEAncients.MarksmanshipTooltip>
+  <VFEAncients.Reason.KilledSomeone>Причина: Вбив когось</VFEAncients.Reason.KilledSomeone>
+  <VFEAncients.Reason.Rejected>Причина: Відмова {0}</VFEAncients.Reason.Rejected>
+  <VFEAncients.CannotPrioritizeAudacious>Встановити пріорітет: {0} is audacious</VFEAncients.CannotPrioritizeAudacious>
+  <VFEAncients.IncapableOfTooltipPower>Спричинено силою: {0}</VFEAncients.IncapableOfTooltipPower>
+  <VFEAncients.NotInMentalState>Ціль в здоровому глузді</VFEAncients.NotInMentalState>
+  <VFEAncients.NotAnimal>Ціль не тварина</VFEAncients.NotAnimal>
+  <VFEAncients.Tame>Не може бути застосово до приручених тварин.</VFEAncients.Tame>
+  <VFEAncients.NoTargets>Неможлива ціль</VFEAncients.NoTargets>
+  <VFEAncients.RefillsIn>Заправляє в {0}</VFEAncients.RefillsIn>
+  <VFEAncients.EnterGeneTailoringPod>Увійти в генкапсулу.</VFEAncients.EnterGeneTailoringPod>
+  <VFEAncients.CarryToGeneTailoringPod>Нести {0} в генкапсулу</VFEAncients.CarryToGeneTailoringPod>
+  <VFEAncients.CarryToBioBattery>Нести {0} в біокапсулу</VFEAncients.CarryToBioBattery>
+  <VFEAncients.Empower>Додати суперсилу</VFEAncients.Empower>
+  <VFEAncients.RemoveWeakness>Усунути ваду</VFEAncients.RemoveWeakness>
+  <VFEAncients.Empowered.Label>Успішний експеримент: {0}</VFEAncients.Empowered.Label>
+  <VFEAncients.Empowered.Text>Експеримент у генкапсулі пройшов успішно! {0} отримав суперсилу {1}. Проте вони також отримали слабкість {2}.</VFEAncients.Empowered.Text>
+  <VFEAncients.RemoveWeakness.Label>Успішний експеримент: {0}</VFEAncients.RemoveWeakness.Label>
+  <VFEAncients.RemoveWeakness.Text>Експеримент у генкапсулі пройшов успішно! {0} позбувся слабкості {1}.</VFEAncients.RemoveWeakness.Text>
+  <VFEAncients.StartOperation>Початок операції</VFEAncients.StartOperation>
+  <VFEAncients.CurrentOperation>Поточна операція</VFEAncients.CurrentOperation>
+  <VFEAncients.ExperimentFailed>Невдалий експеримент</VFEAncients.ExperimentFailed>
+  <VFEAncients.Death>Смерть</VFEAncients.Death>
+  <VFEAncients.ExperimentFailed.Death>Об'єкт помер, експеримент невдалий.</VFEAncients.ExperimentFailed.Death>
+  <VFEAncients.Berserk>Берсерк</VFEAncients.Berserk>
+  <VFEAncients.ExperimentFailed.Berserk>Об'єкт отримав ушкодження мозку. Здібності не були додані.</VFEAncients.ExperimentFailed.Berserk>
+  <VFEAncients.BrainDeath>Смерть мозку</VFEAncients.BrainDeath>
+  <VFEAncients.ExperimentFailed.BrainDeath>Об'єкт отримав серйозне ушкодження мозку, через що загинув.</VFEAncients.ExperimentFailed.BrainDeath>
+  <VFEAncients.LaunchSupplies>Запустити ящик з припасами</VFEAncients.LaunchSupplies>
+  <VFEAncients.ExpiryIn>Самознищення через {0}</VFEAncients.ExpiryIn>
+  <VFEAncients.MessageNoWardenCapableOfRecruitment>Жоден наглядач не може здійснити цей рекрутинг.</VFEAncients.MessageNoWardenCapableOfRecruitment>
+  <VFEAncients.InterrogationSuccess>Успішний допит</VFEAncients.InterrogationSuccess>
+  <VFEAncients.InterrogationSuccessDetail>{0} успішно допитав {1}, він розкрив місцізнаходження {2}.</VFEAncients.InterrogationSuccessDetail>
+  <VFEAncients.InterrogationFailure>Допит провалено!</VFEAncients.InterrogationFailure>
+  <VFEAncients.DeterioratingUncontained>неконтрольований</VFEAncients.DeterioratingUncontained>
+  <VFEAncients.FireAtPods>Вогонь по вантажним капсулам</VFEAncients.FireAtPods>
+  <VFEAncients.FireAtPawns>Вогонь по противникам</VFEAncients.FireAtPawns>
+  <VFEAncients.FireAtProjectiles>Вогонь по снарядам</VFEAncients.FireAtProjectiles>
+  <VFEAncients.FireAtPodsDesc>Дозволити турелі збивати ворожі десантні капсули.</VFEAncients.FireAtPodsDesc>
+  <VFEAncients.FireAtPawnsDesc>Дозволити турелі стріляти по ворогам подібно до звичайної турелі.</VFEAncients.FireAtPawnsDesc>
+  <VFEAncients.FireAtProjectilesDesc>Дозволити турелі збивати падаючі снаряди й ракети.</VFEAncients.FireAtProjectilesDesc>
+  <VFEAncients.PowerChoice>Процес введення супер-нанороботів завершено. Оскільки ваше лабораторне обладнання включає геновий варіатор, ви маєте вибір між двох наборів здібностей та слабкостей для {0}.</VFEAncients.PowerChoice>
+  <VFEAncients.Select>Вибрати</VFEAncients.Select>
+  <VFEAncients.MassLeft>Залишилося маси: {0} / {1} ({2})</VFEAncients.MassLeft>
+  <VFEAncients.AlreadyMetaMorph>Вже у формі тварини</VFEAncients.AlreadyMetaMorph>
+  <VFEAncients.CancelOp>Відмінити операцію</VFEAncients.CancelOp>
+  <VFEAncients.ConfirmSendPawn>Цей контейнер припасів місти {PAWN_labelShort}. Ви не зможете повернути {PAWN_pronoun} назад, якщо ви їх відправите. Все одно відправити?</VFEAncients.ConfirmSendPawn>
+  <VFEAncients.CancelOpDesc>Відмінити операцію над {PAWN}, і дістати {PAWN_pronoun} з генкапсули.</VFEAncients.CancelOpDesc>
+  <VFEAncients.ExperimentFailureWarning>Проведення цього експерименту має {0} шанс невдачі. Це пов'язано з:{4}\n\nМожливо зменшити шанс встановивши:\n{1}\n\nЕксперимент займе {2} і не може бути безпечно відмінено після початку. Це впливає на:{3}</VFEAncients.ExperimentFailureWarning>
+  <VFEAncients.SupplyCrateArrived>Неподалік приземлився ящик з припасами. Це відповідь на обмін зі сховищем.</VFEAncients.SupplyCrateArrived>
+  <VFEAncients.EnableGloryKillMusic>Увімкнути музику славетного вбивства</VFEAncients.EnableGloryKillMusic>
+  <VFEAncient.GeneTailorNoFuel>Генкапсула не заправлена</VFEAncient.GeneTailorNoFuel>
+  <VFEAncient.MustBeHumanlike>Повинен бути людиною</VFEAncient.MustBeHumanlike>
+  <VFEAncient.GeneTailorOccupied>Генкапсула зайнята.</VFEAncient.GeneTailorOccupied>
+  <VFEAncient.AvailableOperationsCannotBeApplied>Доступні операції не можуть бути застосовані до</VFEAncient.AvailableOperationsCannotBeApplied>
+  <VFEAncients.RepairMat>Відремонтувати предмет</VFEAncients.RepairMat>
+  <VFEAncients.MatForRepair>Який матеріал слід використовувати для ремонту предмета?</VFEAncients.MatForRepair>
+  <VFEAncients.ResurrectsIn>Відродити</VFEAncients.ResurrectsIn>
+
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Power_Blind.label>пошкодження зорової кори мозку</Power_Blind.label>
+  <Power_Blind.description>The center in the subject’s brain that is responsible for processing optical data has been stunted, causing them to be fully blind despite having functional eyesight.</Power_Blind.description>
+
+  <Power_Deaf.label>пошкодження слухової кори мозку</Power_Deaf.label>
+  <Power_Deaf.description>The center in the subject’s brain that is responsible for processing auditory data has been stunted, causing them to be fully deaf despite having functional inner ear canals.</Power_Deaf.description>
+
+  <Power_Mute.label>німота</Power_Mute.label>
+  <Power_Mute.description>The subject has developed a mental block and can no longer create sounds with their mouth or vocal chords, eliminating all forms of speech.</Power_Mute.description>
+
+  <Power_Paralysis.label>пошкодження мозочка</Power_Paralysis.label>
+  <Power_Paralysis.description>The center of the subject’s brain responsible for motor control in the legs has become stunted, effectively rendering them a paraplegic.</Power_Paralysis.description>
+
+  <Power_PainHypersensitivity.label>пошкодження тім'яної частини мозку</Power_PainHypersensitivity.label>
+  <Power_PainHypersensitivity.description>The center in the subject’s brain that is responsible for pain sensation has been overdeveloped, causing even a papercut to feel like their finger is being chewed on by a wild animal.</Power_PainHypersensitivity.description>
+
+  <Power_Hypermetabolism.label>гіперметаболізм</Power_Hypermetabolism.label>
+  <Power_Hypermetabolism.description>The subject’s metabolism has gone into overdrive, requiring them to eat twice as much food as they did before even if they don’t need that much extra energy.</Power_Hypermetabolism.description>
+
+  <Power_Unstoppable.label>мозкова анальгезія</Power_Unstoppable.label>
+  <Power_Unstoppable.description>The subject’s brain is no longer able to process the sensation of pain. This allows them to accomplish more but stops their body from being able to shut down from suffering excessive damage until it is destroyed.</Power_Unstoppable.description>
+
+  <VFEA_PlasteelClaw.label>пласталевий кіготь</VFEA_PlasteelClaw.label>
+  <VFEA_PlasteelClaw.description>A combat-oriented hand mutation created by super-nanites. It cuts deep, and it is strong enough to crush a skull like a hand crushes an egg. The claws can be retracted.</VFEA_PlasteelClaw.description>
+  <VFEA_PlasteelClaw.comps.0.tools.0.label>plasteel claw</VFEA_PlasteelClaw.comps.0.tools.0.label>
+  <VFEA_PlasteelClaw.labelNoun>a plasteel claw</VFEA_PlasteelClaw.labelNoun>
+
+  <VFEA_RegrowingPart.label>регенерація</VFEA_RegrowingPart.label>
+  <VFEA_RegrowingPart.description>This body part is regenerating.</VFEA_RegrowingPart.description>
+  <VFEA_RegrowingPart.stages.0.label>bones</VFEA_RegrowingPart.stages.0.label>
+  <VFEA_RegrowingPart.stages.1.label>muscles</VFEA_RegrowingPart.stages.1.label>
+  <VFEA_RegrowingPart.stages.2.label>nerves</VFEA_RegrowingPart.stages.2.label>
+  <VFEA_RegrowingPart.stages.3.label>skin</VFEA_RegrowingPart.stages.3.label>
+  <VFEA_RegrowingPart.stages.4.label>finishing</VFEA_RegrowingPart.stages.4.label>
+
+
+</LanguageData>

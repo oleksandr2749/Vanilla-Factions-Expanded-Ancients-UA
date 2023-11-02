@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SuperJump.label>супер прижок</SuperJump.label>
+  <SuperJump.description>М'язи ніг цього персонажа посилені щільними волокнами, а кістки зміцнені. Це дозволяє стрибати на десятки метрів і приземлятися без травм.</SuperJump.description>
+
+  <Telepathy.label>телепатія</Telepathy.label>
+  <Telepathy.description>Персонаж здатен ментально переповнити свідомість жертви.</Telepathy.description>
+
+  <PsychicShock.label>психічний шок</PsychicShock.label>
+  <PsychicShock.description>Персонаж здатний шокувати свідомість жертви хаотичними образами, пригнічуючи свідомість та викликаючи психічний шок.</PsychicShock.description>
+
+  <Invisibility.label>невидимість</Invisibility.label>
+  <Invisibility.description>Персонаж здатний генерувати навколо свого тіла психічне поле, яке на короткий час робить його невидимим.</Invisibility.description>
+
+  <SelfControl.label>залізний самоконтроль</SelfControl.label>
+  <SelfControl.description>Персонаж досягнув майстерності самоконтролю, здатний припинення будь-яких нервовий зрив, змушуючи себе пережити спогад, що заспокоїть його. Після цього знадобиться 2 дні, щоб зосередитися на іншому спогаді.</SelfControl.description>
+
+  <Overshield.label>психічний щит</Overshield.label>
+  <Overshield.description>Персонаж здатний ненадовго утворити силове поле навколо себе, яке зупиняє будь-яка снаряди. Завдяки тісному зв'язку з мозком та невеликому розміру щита, персонаж може на долі секунди відключати щит, що дає змогу стріляти скрізь нього із середини не перериваючи його дію. Утримування щита надзвичайно виснажливе, знадобиться пару хвилини, щоб знову утворити щит.</Overshield.description>
+
+  <SummonLightning.label>громовержець</SummonLightning.label>
+  <SummonLightning.description>Персонаж здатний генерувати в атмосфері перепади тиску, щоб викликати локальну блискавку. Може бути викликана лише раз на 2 хвилини.</SummonLightning.description>
+
+  <AnimalSpeech.label>мова тварин</AnimalSpeech.label>
+  <AnimalSpeech.description>Персонаж здатний раз на день психологічно перевантажити вироблення гормонів у тварини, переконуючи її, що вона є членом його виду. Це або заспокоює тварини, або переконує її приєднатися до колонії.</AnimalSpeech.description>
+
+  <Empathy.label>емпатія</Empathy.label>
+  <Empathy.description>Персонаж здатний вплинути на організм дружньої цілі, стимуюючи вироблення величезної кількість ендорфінів. Сплеск триватиме добу, після чого мине. </Empathy.description>
+
+  <HealOthers.label>дистанційне сцілення</HealOthers.label>
+  <HealOthers.description>Персонаж здатний викликати швидке зцілення поранень дружньої цілі.</HealOthers.description>
+
+  <GloryKill.label>glory kill</GloryKill.label>
+  <GloryKill.description>The subject is able to force themselves into a fight or flight response and receive a massive dose of adrenaline permissible through an enlarged adrenal gland. This surge in strength allows them to randomly attack a nearby enemy and tear them to pieces, however it is so exhausting the user needs to spend 5 days recovering.</GloryKill.description>
+
+  <ElectromagneticPulse.label>електромагніте випромінювання</ElectromagneticPulse.label>
+  <ElectromagneticPulse.description>У персонажа розвинулася залоза, яка здатна поглинати навколишню енергію і накопичувати її, щоб потім згенерувати потужний викид електромагнітного випромінювання.</ElectromagneticPulse.description>
+
+  <FireBreath.label>вогняне дихання</FireBreath.label>
+  <FireBreath.description>У персонажа розвинулася слизова залоза та мішечки з хімічним паливом. Стискаючи грудну клітку при спльовуванні, залоза вистріє струмінь полум'я, що підпалює все на своєму шляху.</FireBreath.description>
+
+  <IceBreath.label>крижаний подих</IceBreath.label>
+  <IceBreath.description>У персонажа розвинулася слизова залоза та мішечки з нейтроаміном. Стискаючи грудну клітку при спльовуванні, залоза вистріє струмінь рідини, що швидко випаровується, сповільнюючи ціль і викликаючи гіпотермію.</IceBreath.description>
+
+  <LaserEyes.label>лазер з очей</LaserEyes.label>
+  <LaserEyes.description>Персонаж здатний подумки відкривати короткочасні стрибкові ворота з ядра найближчої нейтронної зірки, та поглядом фокусувати вивільнену енергію у формі лазера.</LaserEyes.description>
+
+  <MatterPhasing.label>часове зміщення матерії</MatterPhasing.label>
+  <MatterPhasing.description>Персонаж здатний психологічно вплинути на своє тіло, та на інший об'єкт, зсуваючи їхнє положення в часі, відносно один одного. Одержуючи можливість проходити скрізь об'єкти. Це може бути надзвичайно болючим для тіла і може використовуватися лише протягом 10 секунд з 60-секундною перервою.</MatterPhasing.description>
+
+  <ElectricityBlast.label>електричний вибух</ElectricityBlast.label>
+  <ElectricityBlast.description>Персонаж здатний створювати потужний електричний струм у ланцюзі цілей, психічно позбавляючи їхні тіла електронів, а потім спрямовуючи удар блискавки, використовуючи власне тіло як провідник.</ElectricityBlast.description>
+
+  <SpeedBurst.label>адреналіновий сплеск</SpeedBurst.label>
+  <SpeedBurst.description>Персонаж здатний стимулювати виділення великої дози адреналіну. Це, в свою чергу, дозволяє наносити вдвічі швидші удари в ближньому бою, а також вчетверо пришвидшуючи пересування.</SpeedBurst.description>
+
+  <AcidSpitting.label>кислотний плювок</AcidSpitting.label>
+  <AcidSpitting.description>У персонажа розвинулася слизова залоза та мішечки з кислотою. Стискаючи грудну клітку при спльовуванні, залози вистрілюють желеподібну кислоту.</AcidSpitting.description>
+
+  <Fireball.label>вогняна куля</Fireball.label>
+  <Fireball.description>На долоні персонажа є підшкірний мішечок з легкозаймисту від контакту з повітрям, желеподібну рідиною, та численні залози. При скорочуванні м'язів, залози виділяють рідину, яку легко зліпити в кульку та кинути в ціль.</Fireball.description>
+
+  <Metamorphosis.label>перевтілення</Metamorphosis.label>
+  <Metamorphosis.description>Персонаж здатний психічною силою, тимчасово приймати форму тіла тварини.</Metamorphosis.description>
+
+
+</LanguageData>

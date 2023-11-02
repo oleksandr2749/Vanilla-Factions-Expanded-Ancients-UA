@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_LootedVault.label>пограбоване сховище</VFEA_LootedVault.label>
+  <VFEA_LootedVault.description>Нещодавно відкрите пограбоване сховище.</VFEA_LootedVault.description>
+
+  <VFEA_SealedVault.label>закрите сховище</VFEA_SealedVault.label>
+  <VFEA_SealedVault.description>Нещодавно відкрите закрите сховище.</VFEA_SealedVault.description>
+
+  <VFEA_AncientSoldierHostile.label>присутність ворога</VFEA_AncientSoldierHostile.label>
+  <VFEA_AncientSoldierHostile.description>У цьому місці присутні вороги.</VFEA_AncientSoldierHostile.description>
+
+
+</LanguageData>

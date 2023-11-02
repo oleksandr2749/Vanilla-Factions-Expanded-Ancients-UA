@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEAncients_RangedCooldownFactor.label>ranged cooldown</VFEAncients_RangedCooldownFactor.label>
+  <VFEAncients_RangedCooldownFactor.description>The cooldown on ranged weapons for this pawn is multiplied by this value.</VFEAncients_RangedCooldownFactor.description>
+
+  <VFEAncients_MeleeCooldownFactor.label>melee cooldown</VFEAncients_MeleeCooldownFactor.label>
+  <VFEAncients_MeleeCooldownFactor.description>The cooldown on melee weapons for this pawn is multiplied by this value.</VFEAncients_MeleeCooldownFactor.description>
+
+
+</LanguageData>

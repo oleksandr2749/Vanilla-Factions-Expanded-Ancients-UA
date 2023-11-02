@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_ElectricMendingStation.label>електричнй ремонтний стіл</VFEA_ElectricMendingStation.label>
+  <VFEA_ElectricMendingStation.description>An electric station with various apparatus used to fix weapons, armor and apparel. It’s a long process. Such stations are a must-have in the vaults to prevent the equipment, such as guns and tools, from needing replacement.</VFEA_ElectricMendingStation.description>
+  <VFEA_ElectricMendingStation_Blueprint.label>electric mending station (blueprint)</VFEA_ElectricMendingStation_Blueprint.label>
+  <VFEA_ElectricMendingStation_Blueprint_Install.label>electric mending station (blueprint)</VFEA_ElectricMendingStation_Blueprint_Install.label>
+  <VFEA_ElectricMendingStation_Frame.label>electric mending station (building)</VFEA_ElectricMendingStation_Frame.label>
+  <VFEA_ElectricMendingStation_Frame.description>An electric station with various apparatus used to fix weapons, armor and apparel. It’s a long process. Such stations are a must-have in the vaults to prevent the equipment, such as guns and tools, from needing replacement.</VFEA_ElectricMendingStation_Frame.description>
+
+  <VFEA_FueledMendingStation.label>дров'яний ремонтний стіл</VFEA_FueledMendingStation.label>
+  <VFEA_FueledMendingStation.description>A wood-fueled station with various apparatus used to fix weapons, armor and apparel. It’s a long process. Such stations are a must-have in the vaults to prevent the equipment, such as guns and tools, from needing replacement.</VFEA_FueledMendingStation.description>
+  <VFEA_FueledMendingStation_Blueprint.label>fueled mending station (blueprint)</VFEA_FueledMendingStation_Blueprint.label>
+  <VFEA_FueledMendingStation_Blueprint_Install.label>fueled mending station (blueprint)</VFEA_FueledMendingStation_Blueprint_Install.label>
+  <VFEA_FueledMendingStation_Frame.label>fueled mending station (building)</VFEA_FueledMendingStation_Frame.label>
+  <VFEA_FueledMendingStation_Frame.description>A wood-fueled station with various apparatus used to fix weapons, armor and apparel. It’s a long process. Such stations are a must-have in the vaults to prevent the equipment, such as guns and tools, from needing replacement.</VFEA_FueledMendingStation_Frame.description>
+
+  <VFEA_AncientHydroponicFarm.label>старовинний гідропонний басейн</VFEA_AncientHydroponicFarm.label>
+  <VFEA_AncientHydroponicFarm.description>An artificial nutrient bath for growing plants. The nutrients pumps must work continuously; the plants will die if power is cut. Contains a set of built-in sun lamps.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientHydroponicFarm.description>
+  <VFEA_AncientHydroponicFarm_Blueprint_Install.label>ancient hydroponic farm (blueprint)</VFEA_AncientHydroponicFarm_Blueprint_Install.label>
+
+  <VFEA_AncientCookingStation.label>старовинний кухонний стіл</VFEA_AncientCookingStation.label>
+  <VFEA_AncientCookingStation.description>A large stove and butchering station connected together to streamline the cooking process.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientCookingStation.description>
+  <VFEA_AncientCookingStation_Blueprint_Install.label>ancient cooking station (blueprint)</VFEA_AncientCookingStation_Blueprint_Install.label>
+
+  <VFEA_AncientWorkshop.label>старовинна кузня</VFEA_AncientWorkshop.label>
+  <VFEA_AncientWorkshop.description>A large workshop containing machining systems with a simple furnace and smithy station.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientWorkshop.description>
+  <VFEA_AncientWorkshop_Blueprint_Install.label>ancient workshop (blueprint)</VFEA_AncientWorkshop_Blueprint_Install.label>
+
+
+</LanguageData>

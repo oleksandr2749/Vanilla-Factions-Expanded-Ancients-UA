@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EagleEye.label>соколине око</EagleEye.label>
+  <EagleEye.description>Сприйняття глибини очима у цього персонажа значно краще, що дає змогу прицільно стріляти на вдвічі більшу дистанцію.</EagleEye.description>
+
+  <Marksmanship.label>гострий зір</Marksmanship.label>
+  <Marksmanship.description>Персонаж має надзвичайну гостроту зору, що дає змогу робити набагато точніші постріли зі зброї.</Marksmanship.description>
+
+  <Assassin.label>майстер вбивства</Assassin.label>
+  <Assassin.description>Персонаж, в ближньому бою, на підсвідомому рівні здатен завдавати швидкі та точні удари в мозок або серце противника.</Assassin.description>
+
+  <SuperStrength.label>суперміць</SuperStrength.label>
+  <SuperStrength.description>М'язи персонажа обросли щільними волокнами, що значно збільшує силу. Це подвоює шкоду в ближньому бою і збільшує переносиму вагу.</SuperStrength.description>
+
+  <MartialArtist.label>майстерність бойових мистецтв</MartialArtist.label>
+  <MartialArtist.description>Швидкість реакції персонажа значно покращена, як і зорово-рухова координація, що дозволяє завдавати удари точніше, а уклонятися від них ще точніше.</MartialArtist.description>
+
+  <BulletproofSkin.label>куленепробивна шкіра</BulletproofSkin.label>
+  <BulletproofSkin.description>Шкіра персонажа неймовірно щільна, що захищає від будь-яких порізів. Проте, це не запобігає появі синців і переломів.</BulletproofSkin.description>
+
+  <PlasteelSkeleton.label>пласталевий скелет</PlasteelSkeleton.label>
+  <PlasteelSkeleton.description>Кістки персонажа обросли шаром пласталі, утворюючи неймовірно твердий скелет. Це повністю позбавляє від переломів та тріщин, але також дещо сповільнює, за рахунок збільшеної маси.</PlasteelSkeleton.description>
+
+  <SelfResurrection.label>відродження</SelfResurrection.label>
+  <SelfResurrection.description>Персонаж став практично живим мертвецем, оскільки, коли його тілесні та психічні функції припиняються, його тіло впадає в стан анабіозу. Протягом декілької днів його тіло частково відновлюється і персонаж відроджуться.</SelfResurrection.description>
+
+  <RedundantStomach.label>супершлунок</RedundantStomach.label>
+  <RedundantStomach.description>Організм персонажа є настільки здібним у видобуванні енергії з навколишнього середовища, що йому більше не потрібна їжа. Джерелами енергії можуть бути: токсини, електромагнітні поля, сонячне світло, радіація.</RedundantStomach.description>
+
+  <Darkvision.label>нічне бачення</Darkvision.label>
+  <Darkvision.description>Системи зору персонажа мають значні покращення, а саме тампетум, що допомагає отримувати більше світла, та форма очей подібна до котячих. Це означає, що вони можуть бачити навіть у непроглядній темряві, як серед білого дня.</Darkvision.description>
+
+  <RegeneratingLimbs.label>відновлення</RegeneratingLimbs.label>
+  <RegeneratingLimbs.description>Організм персонажа має розвинуту систему мутованих грибів, яка може відтворювати відсутні органи або кінцівки, "запам'ятовуючи", структуру тіла.</RegeneratingLimbs.description>
+
+  <EfficientBuilder.label>ефективний будівельник</EfficientBuilder.label>
+  <EfficientBuilder.description>персонаж має здатність відчувати і прогнозувати навантаження в конструкціях, що дає змогу вчетверо скоротити витрату матеріалів, та вдвічі підвищити цілісності конструкцій.</EfficientBuilder.description>
+
+  <MasterfulCraft.label>майстерний ремісник</MasterfulCraft.label>
+  <MasterfulCraft.description>Тактильна чутливість і зорово-моторна координація персонажа значно покращена, завдяки чому він має змогу виготовляти речі значно кращої якості.</MasterfulCraft.description>
+
+  <ColdResistance.label>холодостійкість</ColdResistance.label>
+  <ColdResistance.description>Персонаж має по всьому тілу крихітні пори, які мікровібраціями стимулюють м'язи тіла,  нагруючи його.</ColdResistance.description>
+
+  <HeatResistance.label>жаростійкість</HeatResistance.label>
+  <HeatResistance.description>Персонаж має по всьому тілу крихітні пори, які мікровібраціями стимулюють потовиділення.</HeatResistance.description>
+
+  <Celebrity.label>харизматичність</Celebrity.label>
+  <Celebrity.description>Персонаж завжди знає, що сказати, і ніхто не може заперечити то, наскільки він до біса привабливий.</Celebrity.description>
+
+  <MasterHacker.label>майстер цифрового злому</MasterHacker.label>
+  <MasterHacker.description>Персонаж має надзвичайну кмітливість, коли справа доходить до роботи комп'ютерного коду.</MasterHacker.description>
+
+  <Loner.label>самотність</Loner.label>
+  <Loner.description>Персонаж здатний досягти вищої форми дзен, коли він перебуває на самоті.</Loner.description>
+
+  <BlastResistance.label>вибухостійкість</BlastResistance.label>
+  <BlastResistance.description>Шкіра персонажа має здібність твердішати під впливом високої швидкості ударів, наприклад, від осколків гранати.</BlastResistance.description>
+
+  <PromisingCandidate.label>перспективний кандидат</PromisingCandidate.label>
+  <PromisingCandidate.description>Гени персонажа стали більш, "гнучними", що позбавляє ризику невдалого експерименту.</PromisingCandidate.description>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_AncientBed.label>старовинна кровать</VFEA_AncientBed.label>
+  <VFEA_AncientBed.description>An old-fashioned metal bed frame with a hard mattress and uncomfortable duvet.</VFEA_AncientBed.description>
+  <VFEA_AncientBed_Blueprint_Install.label>ancient bed (blueprint)</VFEA_AncientBed_Blueprint_Install.label>
+
+  <VFEA_WallLamp.label>настінна лампа</VFEA_WallLamp.label>
+  <VFEA_WallLamp.description>An electrical wall lamp, ideal to light up corridors in a vault.</VFEA_WallLamp.description>
+  <VFEA_WallLamp_Blueprint.label>wall lamp (blueprint)</VFEA_WallLamp_Blueprint.label>
+  <VFEA_WallLamp_Blueprint_Install.label>wall lamp (blueprint)</VFEA_WallLamp_Blueprint_Install.label>
+  <VFEA_WallLamp_Frame.label>wall lamp (building)</VFEA_WallLamp_Frame.label>
+  <VFEA_WallLamp_Frame.description>An electrical wall lamp, ideal to light up corridors in a vault.</VFEA_WallLamp_Frame.description>
+
+  <VFEA_AncientCryptosleepSuspender.label>старовинна капсула криптосну</VFEA_AncientCryptosleepSuspender.label>
+  <VFEA_AncientCryptosleepSuspender.description>An ancient medical pod that uses partial cryptosleep to slow down the degredation of wounds and help the body heal, although with the same side effects of cryptosleep, albeit at a lesser severity.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientCryptosleepSuspender.description>
+  <VFEA_AncientCryptosleepSuspender_Blueprint.label>ancient cryptosleep suspender (blueprint)</VFEA_AncientCryptosleepSuspender_Blueprint.label>
+  <VFEA_AncientCryptosleepSuspender_Blueprint_Install.label>ancient cryptosleep suspender (blueprint)</VFEA_AncientCryptosleepSuspender_Blueprint_Install.label>
+  <VFEA_AncientCryptosleepSuspender_Frame.label>ancient cryptosleep suspender (building)</VFEA_AncientCryptosleepSuspender_Frame.label>
+  <VFEA_AncientCryptosleepSuspender_Frame.description>An ancient medical pod that uses partial cryptosleep to slow down the degredation of wounds and help the body heal, although with the same side effects of cryptosleep, albeit at a lesser severity.\n\nThis structure was built by a long forgotten civilisation and the technology can no longer be replicated. It will never suffer breakdowns, and it operates more efficiently during solar flare incidents.</VFEA_AncientCryptosleepSuspender_Frame.description>
+
+
+</LanguageData>

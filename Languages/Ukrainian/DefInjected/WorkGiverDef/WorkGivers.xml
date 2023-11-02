@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_DoBillsAncientWorkshop.label>виготовити речі на старовинному верстаті</VFEA_DoBillsAncientWorkshop.label>
+  <VFEA_DoBillsAncientWorkshop.verb>виготовляти</VFEA_DoBillsAncientWorkshop.verb>
+  <VFEA_DoBillsAncientWorkshop.gerund>виготовляє на</VFEA_DoBillsAncientWorkshop.gerund>
+
+  <VFEA_DoBillsAncientCookingStation.label>готувати їжу на старовинній кухні</VFEA_DoBillsAncientCookingStation.label>
+  <VFEA_DoBillsAncientCookingStation.verb>готувати</VFEA_DoBillsAncientCookingStation.verb>
+  <VFEA_DoBillsAncientCookingStation.gerund>готує на</VFEA_DoBillsAncientCookingStation.gerund>
+
+  <VFEA_DoBillsMending.label>ремонтувати річ на ремонтному столі</VFEA_DoBillsMending.label>
+  <VFEA_DoBillsMending.verb>ремонтувати</VFEA_DoBillsMending.verb>
+  <VFEA_DoBillsMending.gerund>ремонтує на</VFEA_DoBillsMending.gerund>
+
+  <VFEA_Interrogate.label>допитувати ув'язнених</VFEA_Interrogate.label>
+  <VFEA_Interrogate.verb>допитувати</VFEA_Interrogate.verb>
+  <VFEA_Interrogate.gerund>допитує</VFEA_Interrogate.gerund>
+
+
+</LanguageData>

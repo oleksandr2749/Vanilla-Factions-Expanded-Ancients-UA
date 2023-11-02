@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEA_SuperJump.label>super jump</VFEA_SuperJump.label>
+  <VFEA_SuperJump.description>Jump over a short distance (10 cells) within line of sight to close the distance to the enemy.</VFEA_SuperJump.description>
+
+  <VFEA_Berserk.label>berserk (telepathy)</VFEA_Berserk.label>
+  <VFEA_Berserk.description>Cast on an enemy to turn them on their allies.</VFEA_Berserk.description>
+
+  <VFEA_Calm.label>calm (telepathy)</VFEA_Calm.label>
+  <VFEA_Calm.description>Cast on a friend to instantly snap them out of a mental break.</VFEA_Calm.description>
+
+  <VFEA_PsychicShock.label>psychic shock</VFEA_PsychicShock.label>
+  <VFEA_PsychicShock.description>Fire a psychic shock on the enemy, rendering them unconscious.</VFEA_PsychicShock.description>
+
+  <VFEA_Invisibility.label>invisibility</VFEA_Invisibility.label>
+  <VFEA_Invisibility.description>Turns invisible for 60 seconds.</VFEA_Invisibility.description>
+
+  <VFEA_SelfControl.label>self-control</VFEA_SelfControl.label>
+  <VFEA_SelfControl.description>When activated, immediately stop any mental breaks this pawn is under effect of.</VFEA_SelfControl.description>
+
+  <VFEA_Overshield.label>overshield</VFEA_Overshield.label>
+  <VFEA_Overshield.description>Generate an impenetrable shield around yourself that lasts 30 seconds.</VFEA_Overshield.description>
+
+  <VFEA_SummonLightning.label>summon lightning</VFEA_SummonLightning.label>
+  <VFEA_SummonLightning.description>Designate an area that will be blasted by lightning bolts.</VFEA_SummonLightning.description>
+
+  <VFEA_AnimalSpeech.label>animal speech</VFEA_AnimalSpeech.label>
+  <VFEA_AnimalSpeech.description>When cast on a man hunting animal, calms it. When cast on a wild animal, tame it.</VFEA_AnimalSpeech.description>
+
+  <VFEA_Empathy.label>empathy</VFEA_Empathy.label>
+  <VFEA_Empathy.description>Cast on an ally to give them a strong mood buff lasting 24 hours.</VFEA_Empathy.description>
+
+  <VFEA_Heal.label>heal others</VFEA_Heal.label>
+  <VFEA_Heal.description>Cast on an ally to cure them of all their wounds.</VFEA_Heal.description>
+
+  <VFEA_GloryKill.label>glory kill</VFEA_GloryKill.label>
+  <VFEA_GloryKill.description>Kill a random enemy in 1 cell radius, spawning large amount of blood everywhere, and removing a random amount of their limbs.</VFEA_GloryKill.description>
+
+  <VFEA_ElectromagneticPulse.label>electro-magnetic pulse</VFEA_ElectromagneticPulse.label>
+  <VFEA_ElectromagneticPulse.description>Generate a large EMP explosion around yourself, disabling all electronics in radius.</VFEA_ElectromagneticPulse.description>
+
+  <VFEA_FireBreath.label>fire breath</VFEA_FireBreath.label>
+  <VFEA_FireBreath.description>Spew fire up to 12 cells range in front of you, burning enemies and sending them running.</VFEA_FireBreath.description>
+
+  <VFEA_IceBreath.label>ice breath</VFEA_IceBreath.label>
+  <VFEA_IceBreath.description>Spew ice up to 12 cells range in front of you, slowing enemies and applying high hypothermia.</VFEA_IceBreath.description>
+
+  <VFEA_LaserEyes.label>laser eyes</VFEA_LaserEyes.label>
+  <VFEA_LaserEyes.description>Fire an incredibly powerful beam of energy from your eyes. Maximum range is 35.</VFEA_LaserEyes.description>
+
+  <VFEA_MatterPhasing.label>matter phasing</VFEA_MatterPhasing.label>
+  <VFEA_MatterPhasing.description>Turn on to phase through walls for 10 seconds.</VFEA_MatterPhasing.description>
+
+  <VFEA_ElectricityBlast.label>electricity blast</VFEA_ElectricityBlast.label>
+  <VFEA_ElectricityBlast.description>Fire an arc of lightning that bounced between enemies, burning them and disabling any electronics.</VFEA_ElectricityBlast.description>
+
+  <VFEA_SpeedBurst.label>speed burst</VFEA_SpeedBurst.label>
+  <VFEA_SpeedBurst.description>4x Movement speed. Melee cooldown halved. Lasts 30 seconds.</VFEA_SpeedBurst.description>
+
+  <VFEA_AcidBreath.label>acid spitting</VFEA_AcidBreath.label>
+  <VFEA_AcidBreath.description>The subject has developed sacs of concentrated chemicals in their chest. The sacs are connected via tubes to the corners of their mouth and can be squirted out by contracting their chest when spitting, reacting with oxygen and forming globs of caustic jelly.</VFEA_AcidBreath.description>
+
+  <VFEA_Fireball.label>fireball</VFEA_Fireball.label>
+  <VFEA_Fireball.description>The subject has developed a sac of jellied chemfuel in the palm of their hand along with numerous glands. Once every 30 seconds, these glands extrude a glob of napalm into a closed fist which can then be tossed out to ignite with the air, before landing and setting a small area on fire.</VFEA_Fireball.description>
+
+  <VFEA_MetamorphosisTurtle.label>metamorphosis (turtle)</VFEA_MetamorphosisTurtle.label>
+  <VFEA_MetamorphosisTurtle.description>The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be. In this case, they adopt the form of a tortoise, with the same health, size and abilities, before their body snaps back into its actual shape after 60 seconds.</VFEA_MetamorphosisTurtle.description>
+
+  <VFEA_MetamorphosisWarg.label>metamorphosis (warg)</VFEA_MetamorphosisWarg.label>
+  <VFEA_MetamorphosisWarg.description>The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be. In this case, they adopt the form of a warg, with the same health, size and abilities, before their body snaps back into its actual shape after 60 seconds.</VFEA_MetamorphosisWarg.description>
+
+
+</LanguageData>

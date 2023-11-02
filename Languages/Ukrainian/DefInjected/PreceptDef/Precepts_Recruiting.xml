@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VFEA_Recruiting_Forbidden.label>заборонені</VFEA_Recruiting_Forbidden.label>
+  <VFEA_Recruiting_Forbidden.description>Ми не потребуємо нічиєї допомоги.</VFEA_Recruiting_Forbidden.description>
+
+  <VFEA_BeingRecruited_Forbidden.label>заборонені</VFEA_BeingRecruited_Forbidden.label>
+  <VFEA_BeingRecruited_Forbidden.description>Ми велична нація і приєднання до будь-кого стане для ганьбою.</VFEA_BeingRecruited_Forbidden.description>
+
+
+</LanguageData>
